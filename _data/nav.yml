@@ -1,0 +1,22 @@
+- title: "home"
+  href: "/"
+
+- title: "blog"
+  href: "/blog/"
+
+- title: "Projects"
+  subcategories:
+    - subtitle: "Angel Mk5"
+      subhref: "/projects/angel-mk5/"
+
+- title: "Learn"
+  subcategories:
+    - subtitle: "Beginners Guide"
+      subhref: "/learn/beginners.html"
+      
+- title: "External Resources"
+  external-subcategories:
+    - subtitle: "Sparkfun Electronics"
+      subhref: "https://www.sparkfun.com/"
+    - subtitle: "Adafruit Industries"
+      subhref: "https://www.adafruit.com/"
