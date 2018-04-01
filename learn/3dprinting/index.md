@@ -12,7 +12,7 @@ This section is dedicated to all things 3d printing. This is not all inclusive b
 
 Is 3d Printing for me?
 ================
-This is a question I get asked often. My answer isn't simple and I've dedicated an entire blog post to it.  Please see it [here]({{ site.baseurl }}{% post_url 2018-04-01-Is-3d-Printing-For-Me %}
+This is a question I get asked often. My answer isn't simple and I've dedicated an entire blog post to it.  Please see it [here]({{ site.baseurl }}{% post_url 2018-04-01-Is-3d-Printing-For-Me %})
 
 3d Printers
 ==========
