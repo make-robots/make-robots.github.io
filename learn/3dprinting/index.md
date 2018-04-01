@@ -3,9 +3,6 @@ layout: default
 title: 3d Printing
 ---
 
-<article class="row">
-  <section class="small-12 large-8 columns page-content">
-
 
 3d Printing
 =========
@@ -52,6 +49,3 @@ This list used to be short but now there's so many different varieties now that 
 * Carbon Fiber
 
 Each type of filament has advantages and disadvantages. Many common consumer grade printers can't handle ABS. At least not without an enclosure. Other filaments require a hardened nozzle as they are abrasive and will erode the nozzle overtime.  Some filaments require a headed bed and others are just fine without. 
-
-</section>
-</article>

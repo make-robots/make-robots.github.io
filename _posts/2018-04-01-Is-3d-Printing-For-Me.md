@@ -3,9 +3,6 @@ layout: default
 title: Is 3d Printing For Me?
 ---
 
-<article class="row">
-  <section class="small-12 large-8 columns page-content">
-
 Is 3d Printing For Me?
 ==========
 
@@ -42,7 +39,4 @@ Is 3d printing for me?
 * No, if you're just an average Joe consumer with no real need to fabricate plastic parts at home. If you have a need for a single plastic part there are 3d printing hubs out there where you can connect with a service to print your parts.
 
 **I say again, DO NOT BUY A CHEAP CHINESE 3D PRINTER UNLESS YOU ARE EXPERIENCED AND KNOWLEDGEABLE WITH ELECTRONICS!**
-
-</article>
-</section>
 
