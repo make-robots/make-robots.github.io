@@ -6,6 +6,8 @@ title: Angel Mk5
 Angel MK5
 =========
 
+**This is a work in progress. Don't expect many updates until Fall 2018**
+
 The Angel Mk5 is my code name for a robotics project I've been dreaming about all my life. Well not all my life, but since around the mid-late 1980s.
 
 This robot is inspired by a movie robot but it isn't a replica. While I openly admit it resembles the movie character it differs in a few ways
