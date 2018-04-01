@@ -11,8 +11,8 @@
 
 - title: "Learn"
   subcategories:
-    - subtitle: "Beginners Guide"
-      subhref: "/learn/beginners.html"
+    - subtitle: "3d Printing"
+      subhref: "/learn/3dprinting/"
       
 - title: "External Resources"
   external-subcategories:
