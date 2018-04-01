@@ -53,3 +53,11 @@ This list used to be short but now there's so many different varieties now that 
 Each type of filament has advantages and disadvantages. Many common consumer grade printers can't handle ABS. At least not without an enclosure. Other filaments require a hardened nozzle as they are abrasive and will erode the nozzle overtime.  Some filaments require a headed bed and others are just fine without. 
 
 There's even [temperature sensitive color changing](https://gizmodorks.com/pla-3d-printer-filament/) filament that changes color when it gets warm. 
+
+Makerbox
+======
+
+Some lads from New Jersey put together a monthly subscription program where each month you are sent samples (either 4 samples per month or 8 samples every 2 months to save on shipping). This is a pretty nice program as you get to try samples of filament. Saves time on research and helps you learn about new filaments.
+
+[Check it out here](https://makerbox.cratejoy.com/refer/Wes-WARVONHG)
+
